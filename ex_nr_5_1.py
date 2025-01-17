@@ -38,3 +38,8 @@ data = {"encodings": knownEncodings, "names": knownNames}
 # Save the dictionary to a file using pickle for later use
 with open("face_enc", "wb") as f:
     f.write(pickle.dumps(data))
+
+# Extracting features from Face
+# First, you need to get a dataset or even create one of you own. Just make sure to arrange all images in folders with each folder containing images of just one person.
+
+# Next, save the dataset in a folder the same as you are going to make the file.
