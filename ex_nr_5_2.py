@@ -108,3 +108,6 @@ while True:
 # Release the video capture object and close all OpenCV windows
 video_capture.release()
 cv2.destroyAllWindows()
+
+# Face Recognition in Live webcam Feed
+# Source: https://www.mygreatlearning.com/blog/face-recognition/
