@@ -43,3 +43,4 @@ with open("face_enc", "wb") as f:
 # First, you need to get a dataset or even create one of you own. Just make sure to arrange all images in folders with each folder containing images of just one person.
 
 # Next, save the dataset in a folder the same as you are going to make the file.
+# Source: https://www.mygreatlearning.com/blog/face-recognition/
