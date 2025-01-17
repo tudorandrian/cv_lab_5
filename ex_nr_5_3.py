@@ -101,3 +101,6 @@ for ((x, y, w, h), name) in zip(faces, names):
 # Display the final image with annotated faces
 cv2.imshow("Frame", image)
 cv2.waitKey(0)
+
+#Face Recognition in Images
+# Source: https://www.mygreatlearning.com/blog/face-recognition/
